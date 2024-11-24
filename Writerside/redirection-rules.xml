@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="717cdc86">
+        <description>Created after removal of "doc-jaチャレンジ" from Iroiro Otameshi Memo</description>
+        <accepts>doc-jaチャレンジ.html</accepts>
+    </rule>
+</rules>
