@@ -73,6 +73,8 @@ Line   template-example.php
 <code-block lang="php" src="stan-templates/src/UmaiMeshi.php"/>
 
 ### template-covariantの例
+**WIP**
+
 `@template` が非変(invariant)を表すのに対して、 `@template-covariant` は共変を示す。  
 もし、「templateを持つクラスやインターフェイスを継承した、サブクラスで、親クラスのTのバリエーションを扱う」という場合にはそんなに意識しなくて良さそう。  
 
@@ -85,3 +87,8 @@ Line   template-example.php
   17     Dumped type: class-string<App\NoodleInterface>  
  ------ ------------------------------------------------ 
 ```
+### "call-site" template-covariantの例
+TBD
+
+### template-contravariantの例
+TBD
