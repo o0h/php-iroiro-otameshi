@@ -4,7 +4,7 @@
 ### generated-by
 JetBrains/AI Assistant (openai-gpt-4o)
 
-### prompts
+## prompts
 PHPStanユーザーです。 `@template-covariant` と `@template-contravariant`について、概要や利点を説明し、その後に具体的なコードを交えて解決される問題について解説してください
 
 ## answer
