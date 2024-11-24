@@ -1,0 +1,8 @@
+parameters:
+	level: 10
+	paths:
+		- src
+		- snippets
+	excludePaths:
+		- src/UmaiMeshiFactory.php
+
