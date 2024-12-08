@@ -6,6 +6,7 @@
                  name="Iroiro Otameshi Memo"
                  start-page="starter-topic.md">
 
+    <toc-element topic="PIEでローカルにXdebugを入れてみる.md"/>
     <toc-element topic="PHPStanのtemplate周りのメモ.md">
         <toc-element topic="AIによる作文.md"/>
     </toc-element>
